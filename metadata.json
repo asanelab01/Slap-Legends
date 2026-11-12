@@ -1,0 +1,6 @@
+{
+  "name": "Slap Legends: 2D Championship",
+  "description": "An action-packed 2D competitive slap fighting game with 4 unique characters, traits, precision power-timing meter, and high-impact arcade physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
